@@ -1,4 +1,4 @@
-[Network Analysis of Paris's Street Notebook](https://nbviewer.org/github/youssef-gis/Los-Angeles-crimes-Analysis/blob/main/road_network_analysis.ipynb)
+[Network Analysis of Paris's Street Notebook](https://nbviewer.org/github/youssef-gis/Road-Network-Analysis/blob/main/road_network_analysis.ipynb)
 
 # 🗺️ Network Analysis of Paris's Street with Python
 This project applies network analysis techniques to explore and understand the structure of Paris's road network using Python. By leveraging powerful tools like OSMnx, NetworkX, GeoPandas, and Folium, the project extracts, analyzes, and visualizes urban infrastructure to uncover hidden patterns in city design and transportation flow.
